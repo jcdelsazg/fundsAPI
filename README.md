@@ -2,7 +2,7 @@
 
 ## CRUD API developed in dot net core 2.2 using C# 
 ## Using design patterns like Unit of work, repositories, database migrations, Dependency Injection, Unit testing using XUnit
-## SQL Database 
+## SQL Database needed for use the api
 
 ### Developed by Juan Carlos Del Saz 
 
