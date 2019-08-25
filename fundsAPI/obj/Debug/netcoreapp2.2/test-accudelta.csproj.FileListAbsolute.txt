@@ -1,0 +1,14 @@
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\bin\Debug\netcoreapp2.2\test-accudelta.deps.json
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\bin\Debug\netcoreapp2.2\test-accudelta.runtimeconfig.json
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\bin\Debug\netcoreapp2.2\test-accudelta.runtimeconfig.dev.json
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\bin\Debug\netcoreapp2.2\test-accudelta.dll
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\bin\Debug\netcoreapp2.2\test-accudelta.pdb
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.csproj.CoreCompileInputs.cache
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.RazorAssemblyInfo.cache
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.RazorAssemblyInfo.cs
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.AssemblyInfoInputs.cache
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.AssemblyInfo.cs
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.RazorTargetAssemblyInfo.cache
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.dll
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.pdb
+C:\Users\juank\source\repos\test-accudelta\test-accudelta\obj\Debug\netcoreapp2.2\test-accudelta.csprojAssemblyReference.cache

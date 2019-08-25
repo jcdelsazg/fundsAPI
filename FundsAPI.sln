@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundsAPI", "fundsAPI\FundsAPI.csproj", "{4DB11ED3-D864-41BC-91DC-D3E4F0A46C28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitFundsAPI", "XUnitFundsAPI\XUnitFundsAPI.csproj", "{7B48E7A2-E572-425B-B6D8-85E116558935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB11ED3-D864-41BC-91DC-D3E4F0A46C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB11ED3-D864-41BC-91DC-D3E4F0A46C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB11ED3-D864-41BC-91DC-D3E4F0A46C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB11ED3-D864-41BC-91DC-D3E4F0A46C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B48E7A2-E572-425B-B6D8-85E116558935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B48E7A2-E572-425B-B6D8-85E116558935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B48E7A2-E572-425B-B6D8-85E116558935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B48E7A2-E572-425B-B6D8-85E116558935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45DBC47B-2E18-4D92-B191-32B886A7DB7C}
+	EndGlobalSection
+EndGlobal
