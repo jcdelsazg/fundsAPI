@@ -1,13 +1,13 @@
 # FUNDS API
 
-## CRUD Api developed in dot net core 2.2 using C# 
+## CRUD API developed in dot net core 2.2 using C# 
 ## Using design patterns like Unit of work, repositories, database migrations, Dependency Injection, Unit testing using XUnit 
 
 ### Developed by Juan Carlos Del Saz 
 
-#How To use 
+# How To use 
 
-##Configuration of the DB 
+## Configuration of the DB 
 
 1. The first step is change the connection string for sql server database. The steps for doing it are the following:  
 	1. Open the solution project with your favorite editor(I use for perform this test Visual Studio 2019 Community). 
